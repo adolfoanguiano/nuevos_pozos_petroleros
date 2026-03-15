@@ -1,5 +1,4 @@
 
-Este proyecto fue elaborado en el Bootcamp de TripleTen.
 # Proyecto: Selección de los mejores lugares de pozos petroleros para OilyGiant
 
 ## Introducción
